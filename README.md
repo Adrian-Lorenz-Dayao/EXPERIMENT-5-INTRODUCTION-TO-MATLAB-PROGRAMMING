@@ -154,6 +154,7 @@ The following are the answers to the given questions:
 
 The following linear system of equations is given:
 
+<img width="270" height="104" alt="simultaneous system" src="https://github.com/user-attachments/assets/b126affd-1951-4f48-ba4f-1002270cea0f" />
 
 
 The right hand side of the system must first be expressed as a coefficient MATLAB matrix and then the left hand side as a constant vector,
